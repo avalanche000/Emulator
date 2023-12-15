@@ -64,7 +64,8 @@ window.EJS_pathtodata = "data/";
 window.EJS_startOnLoaded = true;
 
 games.forEach(game => {
-    let selector = document.createElement("button");
+    const selector = document.createElement("button");
+    
     selector.innerHTML = game.name;
     selector.addEventListener("click", () => {
         window.EJS_core = game.core;
@@ -72,14 +73,19 @@ games.forEach(game => {
 
         menuContainer.hidden = true;
         menuContainer.style.display = "none";
+        
         gameContainer.hidden = false;
 
-        let script = document.createElement("script");
+        const script = document.createElement("script");
+        
         script.src = "data/loader.js";
         document.body.appendChild(script);
     });
-    let container = document.createElement("div");
+    
+    const container = document.createElement("div");
+    
     container.className = "conatiner";
     container.appendChild(selector);
+    
     menuContainer.appendChild(container);
 });
