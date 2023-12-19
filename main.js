@@ -32,6 +32,11 @@ const games = [
         core: "n64"
     },
     {
+        name: "Super Mario 64",
+        gameUrl: "Super Mario 64 (USA).z64",
+        core: "n64"
+    },
+    {
         name: "Super Smash Bros",
         gameUrl: "Super Smash Bros.z64",
         core: "n64"
