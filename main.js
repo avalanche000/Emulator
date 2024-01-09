@@ -73,6 +73,10 @@ games.forEach(game => {
     
     selector.innerHTML = game.name;
     selector.addEventListener("click", () => {
+        window.onbeforeunload = () => {
+            return "e";
+        }
+        
         window.EJS_core = game.core;
         window.EJS_gameUrl = "games/" + game.gameUrl;
 
