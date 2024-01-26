@@ -27,6 +27,11 @@ const games = [
         core: "gba"
     },
     {
+        name: "Kirby and The Amazing Mirror",
+        gameUrl: "Kirby & The Amazing Mirror (USA).gba",
+        core: "gba"
+    },
+    {
         name: "Mario Kart 64",
         gameUrl: "Mario Kart 64.z64",
         core: "n64"
@@ -37,6 +42,11 @@ const games = [
         core: "n64"
     },
     {
+        name: "Mario and Luigi - Superstar Saga",
+        gameUrl: "Mario & Luigi - Superstar Saga (USA).gba",
+        core: "gba"
+    },
+    {
         name: "Super Smash Bros",
         gameUrl: "Super Smash Bros.z64",
         core: "n64"
@@ -45,6 +55,16 @@ const games = [
         name: "Mario Party 3",
         gameUrl: "Mario Party 3.z64",
         core: "n64"
+    },
+    {
+        name: "Sonic Advance (Lightforce)",
+        gameUrl: "0339 - Sonic Advance (E)(Lightforce).gba",
+        core: "gba"
+    },
+    {
+        name: "Sonic Advance 2",
+        gameUrl: "Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).gba",
+        core: "gba"
     },
     {
         name: "Donkey Kong",
@@ -60,6 +80,11 @@ const games = [
         name: "Animal Crossing",
         gameUrl: "Animal Crossing - Wild World (USA) (Rev 1).nds",
         core: "nds"
+    },
+    {
+        name: "Metroid Fusion",
+        gameUrl: "Metroid Fusion (USA).gba",
+        core: "gba"
     }
 ];
 
