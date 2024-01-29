@@ -108,7 +108,7 @@ games.forEach(game => {
         }
         
         window.EJS_core = game.core;
-        window.EJS_gameUrl = "games/" + game.gameUrl;
+        window.EJS_gameUrl = game.gameUrl.startsWith("http") ? game.gameUrl : "games/" + game.gameUrl;
 
         menuContainer.hidden = true;
         menuContainer.style.display = "none";
