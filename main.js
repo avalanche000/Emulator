@@ -28,7 +28,7 @@ const games = [
     },
     {
         name: "Kirby Super Star Ultra",
-        gameUrl: "https://www.dropbox.com/scl/fi/453gsmnlts09qywk7etps/Kirby-Super-Star-Ultra-USA.nds?rlkey=v6br9qlq4fowpqqyxbrkolmqv&dl=0",
+        gameUrl: "https://filebin.net/ykxdd6rl0abls3z9/Kirby_Super_Star_Ultra__USA_.nds",
         core: "nds"
     },
     {
