@@ -32,14 +32,14 @@ const games = [
         core: "gba"
     },
     {
-        name: "Kirby Super Star Ultra",
-        gameUrl: "https://filebin.net/ykxdd6rl0abls3z9/Kirby_Super_Star_Ultra__USA_.nds",
-        core: "nds"
-    },
-    {
         name: "Kirby and The Amazing Mirror",
         gameUrl: "Kirby & The Amazing Mirror (USA).gba",
         core: "gba"
+    },
+    {
+        name: "Kirby Super Star Ultra",
+        gameUrl: "https://filebin.net/ykxdd6rl0abls3z9/Kirby_Super_Star_Ultra__USA_.nds",
+        core: "nds"
     },
     {
         name: "Mario Kart 64",
