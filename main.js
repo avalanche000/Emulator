@@ -27,6 +27,11 @@ const games = [
         core: "gba"
     },
     {
+        name: "Kirby Super Star Ultra",
+        gameUrl: "https://www.dropbox.com/scl/fi/453gsmnlts09qywk7etps/Kirby-Super-Star-Ultra-USA.nds?rlkey=v6br9qlq4fowpqqyxbrkolmqv&dl=0",
+        core: "nds"
+    },
+    {
         name: "Kirby and The Amazing Mirror",
         gameUrl: "Kirby & The Amazing Mirror (USA).gba",
         core: "gba"
