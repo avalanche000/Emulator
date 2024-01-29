@@ -22,6 +22,11 @@ const games = [
         core: "gba"
     },
     {
+        name: "Pokèmon Platinum",
+        gameUrl: "https://filebin.net/bxrzlqhc4fz5fs0o/Pokemon_-_Platinum_Version__USA___Rev_1_.nds",
+        core: "nds"
+    },
+    {
         name: "Kirby Nightmare in Dreamland",
         gameUrl: "Kirby - Nightmare in Dreamland.gba",
         core: "gba"
