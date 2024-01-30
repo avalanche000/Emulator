@@ -52,7 +52,7 @@ const games = [
         core: "n64"
     },
     {
-        name: "Mario and Luigi - Superstar Saga",
+        name: "Mario and Luigi Superstar Saga",
         gameUrl: "Mario & Luigi - Superstar Saga (USA).gba",
         core: "gba"
     },
