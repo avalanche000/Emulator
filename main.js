@@ -2,32 +2,32 @@ const gameContainer = document.getElementById("game-container");
 const menuContainer = document.getElementById("menu-container");
 const games = [
     {
-        name: "Pokèmon Ruby Version",
+        name: "Pokèmon - Ruby Version",
         gameUrl: "Pokèmon - Ruby Version.gba",
         core: "gba"
     },
     {
-        name: "Pokèmon Emerald Version",
+        name: "Pokèmon - Emerald Version",
         gameUrl: "Pokèmon - Emerald Version.gba",
         core: "gba"
     },
     {
-        name: "Pokèmon Sapphire Version",
+        name: "Pokèmon - Sapphire Version",
         gameUrl: "Pokèmon - Sapphire Version.gba",
         core: "gba"
     },
     {
-        name: "Pokèmon FireRed Version",
+        name: "Pokèmon - FireRed Version",
         gameUrl: "Pokèmon - FireRed Version.gba",
         core: "gba"
     },
     {
-        name: "Pokèmon Platinum",
+        name: "Pokèmon - Platinum",
         gameUrl: "https://filebin.net/bxrzlqhc4fz5fs0o/Pokemon_-_Platinum_Version__USA___Rev_1_.nds",
         core: "nds"
     },
     {
-        name: "Kirby Nightmare in Dreamland",
+        name: "Kirby - Nightmare in Dreamland",
         gameUrl: "Kirby - Nightmare in Dreamland.gba",
         core: "gba"
     },
@@ -52,9 +52,14 @@ const games = [
         core: "n64"
     },
     {
-        name: "Mario and Luigi Superstar Saga",
+        name: "Mario and Luigi - Superstar Saga",
         gameUrl: "Mario & Luigi - Superstar Saga (USA).gba",
         core: "gba"
+    },
+    {
+        name: "Mario and Luigi - Bowser's Inside Story",
+        gameUrl: "https://drive.google.com/file/d/1_iHHnndvl4-tNJqzr0JjdsFvHKa76B1W/view?usp=drive_link",
+        core: "nds"
     },
     {
         name: "Super Smash Bros",
