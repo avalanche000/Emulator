@@ -100,6 +100,10 @@ const games = [
         name: "Metroid Fusion",
         gameUrl: "Metroid Fusion (USA).gba",
         core: "gba"
+    },
+    {
+        name: "Retro Bowl",
+        gameUrl: "/rb.html"
     }
 ];
 
@@ -113,6 +117,10 @@ games.forEach(game => {
     
     selector.innerHTML = game.name;
     selector.addEventListener("click", () => {
+        if (game.core == null) {
+            window.location.href = game.gameUrl;
+        }
+        
         window.onbeforeunload = () => {
             return "e";
         }
