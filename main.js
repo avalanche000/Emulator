@@ -103,7 +103,7 @@ const games = [
     },
     {
         name: "Retro Bowl",
-        gameUrl: "/rb.html"
+        gameUrl: "rb.html"
     }
 ];
 
@@ -118,7 +118,7 @@ games.forEach(game => {
     selector.innerHTML = game.name;
     selector.addEventListener("click", () => {
         if (game.core == null) {
-            window.location.href = game.gameUrl;
+            window.location.href = "/Emulator/" + game.gameUrl;
         }
         
         window.onbeforeunload = () => {
