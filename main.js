@@ -23,7 +23,7 @@ const games = [
     },
     {
         name: "Pokèmon - Platinum",
-        gameUrl: "https://filebin.net/bxrzlqhc4fz5fs0o/Pokemon_-_Platinum_Version__USA___Rev_1_.nds",
+        gameUrl: "https://www.dropbox.com/scl/fi/u7buuu47t5ysaypmxfa3v/Pokemon-Platinum-Version-USA-Rev-1.nds?rlkey=v6jpd7bbesd6cv6gn8g9nsn23&dl=1",
         core: "nds"
     },
     {
@@ -38,7 +38,7 @@ const games = [
     },
     {
         name: "Kirby Super Star Ultra",
-        gameUrl: "https://filebin.net/ykxdd6rl0abls3z9/Kirby_Super_Star_Ultra__USA_.nds",
+        gameUrl: "https://www.dropbox.com/scl/fi/453gsmnlts09qywk7etps/Kirby-Super-Star-Ultra-USA.nds?rlkey=v6br9qlq4fowpqqyxbrkolmqv&dl=1",
         core: "nds"
     },
     {
@@ -58,7 +58,7 @@ const games = [
     },
     {
         name: "Mario and Luigi - Bowser's Inside Story",
-        gameUrl: "https://drive.google.com/file/d/1_iHHnndvl4-tNJqzr0JjdsFvHKa76B1W/view?usp=drive_link",
+        gameUrl: "https://www.dropbox.com/scl/fi/6d6p74jclb3lokivs4nvi/Mario-Luigi-Bowser-s-Inside-Story.nds?rlkey=ly7d6nkyyyjkldd1cuke982bq&dl=1",
         core: "nds"
     },
     {
