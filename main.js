@@ -7,6 +7,11 @@ const games = [
         core: "nds"
     },
     {
+        name: "Plants vs Zombies",
+        gameUrl: "https://dl.dropboxusercontent.com/1/view/petju8kavgh7soc/Emulator%20Files/5495%20-%20Plants%20vs.%20Zombies%20%28U%29.nds",
+        core: "nds"
+    },
+    {
         name: "Pokèmon - Ruby Version",
         gameUrl: "Pokèmon - Ruby Version.gba",
         core: "gba"
