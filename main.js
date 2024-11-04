@@ -3,7 +3,7 @@ const menuContainer = document.getElementById("menu-container");
 const games = [
     {
         name: "Final Fantasy IV",
-        gameUrl: "https://www.dropbox.com/scl/fi/zd9yaub3jh10vy7auobe8/2495-Final-Fantasy-IV-U-Independent.nds?rlkey=jzpupf506jvguk1zx4tc11d6p&st=nf2zliws&dl=1",
+        gameUrl: "https://www.dropbox.com/scl/fi/zd9yaub3jh10vy7auobe8/2495-Final-Fantasy-IV-U-Independent.nds?rlkey=jzpupf506jvguk1zx4tc11d6p&dl=1",
         core: "nds"
     },
     {
