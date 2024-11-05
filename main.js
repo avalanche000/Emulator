@@ -2,8 +2,8 @@ const gameContainer = document.getElementById("game-container");
 const menuContainer = document.getElementById("menu-container");
 const games = [
     {
-        name: "Final Fantasy IV",
-        gameUrl: "https://csdok-my.sharepoint.com/personal/isaacroot_csdok_org/_layouts/15/download.aspx?UniqueId=0cd55ef3-42c0-4d6c-9249-84e2f81ac4df",
+        name: "Final Fantasy IV (2)",
+        gameUrl: "https://csdok-my.sharepoint.com/:u:/g/personal/isaacroot_csdok_org/EfNe1QzAQmxNkkmE4vgaxN8B-5hanXNlY3HHdOWBQ8aeOw?e=bG0H9Z&download=1",
         core: "nds"
     },
     {
