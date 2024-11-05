@@ -2,15 +2,9 @@ const gameContainer = document.getElementById("game-container");
 const menuContainer = document.getElementById("menu-container");
 const games = [
     {
-        name: "Large File",
-        gameUrl: () => {
-            const file = Dropbox.choose(options);
-
-            return {
-                core: "nds",
-                gameUrl: file.link
-            };
-        }
+        name: "Final Fantasy IV",
+        gameUrl: "https://www.dropbox.com/scl/fi/zd9yaub3jh10vy7auobe8/Final-Fantasy-IV.nds?rlkey=jzpupf506jvguk1zx4tc11d6p&st=dcd9btzd&dl=1",
+        core: "nds"
     },
     {
         name: "Plants vs Zombies",
