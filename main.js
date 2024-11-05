@@ -3,7 +3,7 @@ const menuContainer = document.getElementById("menu-container");
 const games = [
     {
         name: "Final Fantasy IV",
-        gameUrl: "https://drive.google.com/uc?export=download&id=1W399jyLqaU_VVE6N-zqKQkceMq3s7KpV",
+        gameUrl: "https://csdok-my.sharepoint.com/personal/isaacroot_csdok_org/_layouts/15/download.aspx?UniqueId=0cd55ef3-42c0-4d6c-9249-84e2f81ac4df",
         core: "nds"
     },
     {
