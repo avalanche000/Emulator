@@ -2,7 +2,7 @@ const gameContainer = document.getElementById("game-container");
 const menuContainer = document.getElementById("menu-container");
 const games = [
     {
-        name: "Final Fantasy IV (0)",
+        name: "Final Fantasy IV",
         gameUrl: "http://dl.dropboxusercontent.com/scl/fi/zd9yaub3jh10vy7auobe8/Final-Fantasy-IV.nds?rlkey=jzpupf506jvguk1zx4tc11d6p&st=hqkh9fzp&dl=1",
         core: "nds"
     },
